@@ -7,3 +7,5 @@ git checkout
 git log -n 2
 git log --oneline
 git log --stat
+git diff 9dd9781~2
+git diff 9dd9781..c32055e
