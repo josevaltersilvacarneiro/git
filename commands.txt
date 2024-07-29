@@ -9,3 +9,4 @@ git log --oneline
 git log --stat
 git diff 9dd9781~2
 git diff 9dd9781..c32055e
+git reset -- index.txt
