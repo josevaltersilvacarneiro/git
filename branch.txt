@@ -1,0 +1,7 @@
+git branch
+git branch -v
+git branch otherb
+git checkout otherb
+git checkout -b otherb1
+git branch -d otherb
+git branch -D otherb
