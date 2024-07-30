@@ -1,0 +1,1 @@
+git clone ssh://josev@ip/home/josev/git/repo.git
