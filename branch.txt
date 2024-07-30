@@ -5,3 +5,4 @@ git checkout otherb
 git checkout -b otherb1
 git branch -d otherb
 git branch -D otherb
+git branch --no-merged
