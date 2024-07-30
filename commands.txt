@@ -11,3 +11,5 @@ git diff 9dd9781~2
 git diff 9dd9781..c32055e
 git reset -- index.txt
 git reset --hard
+git reset --hard 3b25317
+git revert --no-edit HEAD

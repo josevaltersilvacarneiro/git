@@ -1,0 +1,7 @@
+git init --bare repo.git
+git remote add server ssh://name@ip/address/repo.git
+git remote
+git remote -v
+git remote rename server otherserver
+git remote set-url otherserver ssh://name@ip/address/repo.git
+git push otherserver master
