@@ -8,3 +8,4 @@ git branch -D otherb
 git branch --no-merged
 git branch --merged
 git merge otherb -m "joining"
+git rebase otherb
