@@ -9,3 +9,8 @@ git branch --no-merged
 git branch --merged
 git merge otherb -m "joining"
 git rebase otherb
+git branch -r
+git branch -a
+git branch -r -v
+git checkout -b otherb origin/otherb
+git checkout -t origin/otherb
