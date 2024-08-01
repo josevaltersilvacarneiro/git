@@ -14,3 +14,5 @@ git branch -a
 git branch -r -v
 git checkout -b otherb origin/otherb
 git checkout -t origin/otherb
+git branch -D otherb
+git push origin :otherb
