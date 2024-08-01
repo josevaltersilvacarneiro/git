@@ -5,7 +5,6 @@ git checkout otherb
 git checkout -b otherb1
 git branch -d otherb
 git branch -D otherb
-<<<<<<< HEAD
 git branch --no-merged
 git branch --merged
 git merge otherb -m "joining"
@@ -15,5 +14,3 @@ git branch -a
 git branch -r -v
 git checkout -b otherb origin/otherb
 git checkout -t origin/otherb
-=======
->>>>>>> otherb
