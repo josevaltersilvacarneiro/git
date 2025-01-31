@@ -16,3 +16,4 @@ git revert --no-edit HEAD
 git log -n3 --parents
 git revert --no-commit hash
 git log -n4 --oneline --decorate
+git log --oneline --all

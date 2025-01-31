@@ -1,1 +1,4 @@
 git merge origin/main -m "message"
+git rebase --continue
+git rebase --abort
+git rebase --skip

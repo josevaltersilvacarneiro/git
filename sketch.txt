@@ -1,0 +1,8 @@
+Para trabalharmos numa funcionalidade chamada "func":
+
+git checkout -b func main p/ criarmos uma branch de main
+git push origin func p/ enviar os arquivos para o servidor remoto
+git pull p/ trazermos as mudanças dos outros usuários
+git rebase origin/main p/ trazermos as mudanças de "main"
+git checkout main
+git merge func -m "A new modification"

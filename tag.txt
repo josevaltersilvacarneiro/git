@@ -1,1 +1,8 @@
 git tag v1.0
+git tag -d v1.0
+git tag test1 2223859
+git tag -a v1.0 -m "Version any"
+git show -s v1.0
+git tag
+git push origin v1.0
+git push origin --tags

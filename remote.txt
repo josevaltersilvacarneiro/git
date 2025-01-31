@@ -6,3 +6,6 @@ git remote rename server otherserver
 git remote set-url otherserver ssh://name@ip/address/repo.git
 git push otherserver master
 git push origin otherb
+git remote add origin ssh://name@ip/address/repo.git
+git push origin main
+git remote add server file://192.168.10.99/home/josev/path/test.git

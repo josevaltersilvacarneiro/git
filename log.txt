@@ -1,0 +1,4 @@
+git log -n 3 --oneline
+git log --stat -n2 --oneline
+git log --parents -n3
+git log -n2 --oneline --decorate --parents

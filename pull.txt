@@ -1,2 +1,5 @@
 git pull server master
 git pull origin otherb
+git pull --rebase origin otherb
+git pull --rebase ~ git fetch origin && git rebase origin/main
+git pull --rebase origin otherb
