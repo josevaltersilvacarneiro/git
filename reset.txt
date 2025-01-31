@@ -1,3 +1,4 @@
 git reset -- index.html
 git reset --hard
 git reset --hard 3dd877f
+git reset --soft 3dd877f
